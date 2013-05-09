@@ -101,3 +101,9 @@ acdf9e9236321e9b599784bca3e9532045c1f7be,127.0.0.1,GET,http://localhost/Symfony/
 a857bf74da0747d44a3b75d73a691d809367a40b,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/_fragment?_path=nombre%3D3%26_format%3Dhtml%26_controller%3DSdzBlogBundle%253ABlog%253Amenu,1368111302,203ca4878002ec48228f04f7fe5872de55fc9112
 2ccb8a24af637b9c542a5ba7d678eb7200e974d6,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/blog/article/1,1368111309,
 543f851b69c6ac1d902e8c0a2fb3511a4bc92433,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/_fragment?_path=nombre%3D3%26_format%3Dhtml%26_controller%3DSdzBlogBundle%253ABlog%253Amenu,1368111309,2ccb8a24af637b9c542a5ba7d678eb7200e974d6
+4f1482ac0714f30fd3cbc7fa1e9757b4b36213ce,127.0.0.1,GET,http://localhost/TestGit/TestServeur/web/app_dev.php/blog/1,1368125584,
+9bff527dc030ad43bbd07f4000074bf7c2fa16ff,127.0.0.1,GET,http://localhost/TestGit/TestServeur/web/app_dev.php/_fragment?_path=nombre%3D3%26_format%3Dhtml%26_controller%3DSdzBlogBundle%253ABlog%253Amenu,1368125583,4f1482ac0714f30fd3cbc7fa1e9757b4b36213ce
+b039b7ee757faf5687f0bd3cd200b2867b0f5844,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/blog/article/5,1368135189,
+0af634bdf02e326b17ccfbb4d8da8c3e27c74a94,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/_fragment?_path=nombre%3D3%26_format%3Dhtml%26_controller%3DSdzBlogBundle%253ABlog%253Amenu,1368135188,b039b7ee757faf5687f0bd3cd200b2867b0f5844
+49a74096d485c8eb02509e7c4713aa468a76a94e,127.0.0.1,GET,http://localhost/SymfonyTest-master/web/app_dev.php/blog/article/5,1368135201,
+800239cadf80efce75a532179598bd3497f43280,127.0.0.1,GET,http://localhost/SymfonyTest-master/web/app_dev.php/_fragment?_path=nombre%3D3%26_format%3Dhtml%26_controller%3DSdzBlogBundle%253ABlog%253Amenu,1368135201,49a74096d485c8eb02509e7c4713aa468a76a94e
