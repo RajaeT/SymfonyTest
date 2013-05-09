@@ -95,7 +95,7 @@ class BlogController extends Controller
     );
          
     // Puis modifiez la ligne du render comme ceci, pour prendre en compte l'article :
-	voici un test
+	//voici un test
     return $this->render('SdzBlogBundle:Blog:modifier.html.twig', array(
       'article' => $article
     ));
